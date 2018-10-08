@@ -11,3 +11,13 @@ img {
 figcaption {
   font-style: italic;
 }
+
+blockquote{
+  font-size: 0.88rem;
+  font-style: italic;
+}
+
+cite {
+  font-size: 1.5rem;
+  font-style: italic;
+}
