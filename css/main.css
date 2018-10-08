@@ -5,21 +5,30 @@ html {
 }
 
 h1 {
-  color: #3f1622
+  color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
 }
 
 nav ol {
   color: #8f2440
+  font-family: 'PT Sans', sans-serif;
   font-size: 1.125rem;
+  list-style-type: none;
+
 }
 
+nav ol: hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
 img {
   width: 100%;
 }
 
-main{
-  color: #222
+main {
+  color: #222;
+  text-decoration: none;
 }
 figcaption {
   font-style: italic;
@@ -34,4 +43,22 @@ blockquote{
 cite {
   font-size: 1.5rem;
   font-style: italic;
+}
+
+h2 {
+  color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+ul, footer {
+  font-size: 1.5rem;
+}
+
+a footer {
+  color: #8f2440
+}
+
+a footer: hover {
+  color: #3f1622;
 }
