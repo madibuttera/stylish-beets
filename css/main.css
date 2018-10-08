@@ -29,6 +29,7 @@ img {
 main {
   color: #222;
   font-family: 'PT Serif', serif;
+  font-weight: normal;
   text-decoration: none;
 }
 figcaption {
