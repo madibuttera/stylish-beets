@@ -11,14 +11,14 @@ h1 {
 }
 
 nav ol {
-  color: #8f2440
+  color: #8f2440;
   font-family: 'PT Sans', sans-serif;
   font-size: 1.125rem;
   list-style-type: none;
 
 }
 
-nav ol: hover {
+nav ol:hover {
   color: #3f1622;
   text-decoration: underline;
 }
@@ -61,6 +61,6 @@ a footer {
   color: #8f2440
 }
 
-a footer: hover {
+a footer:hover {
   color: #3f1622;
 }
