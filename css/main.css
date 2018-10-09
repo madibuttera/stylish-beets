@@ -4,6 +4,7 @@ html {
   line-height: 1.5;
 }
 
+
 h1 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
@@ -22,6 +23,7 @@ nav ol:hover {
   color: #3f1622;
   text-decoration: underline;
 }
+
 img {
   width: 100%;
 }
