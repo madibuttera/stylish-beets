@@ -7,13 +7,13 @@ html {
 
 h1 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
 }
 
 nav ol {
   color: #8f2440;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
   list-style-type: none;
 
@@ -30,7 +30,7 @@ img {
 
 main {
   color: #222;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-weight: normal;
   text-decoration: none;
 }
@@ -51,7 +51,7 @@ cite {
 
 h2 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
 }
 
@@ -60,7 +60,7 @@ ul, footer {
 }
 
 a {
-  color: #8f2440
+  color: #8f2440;
 }
 
 a:hover {
