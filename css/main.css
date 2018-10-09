@@ -31,7 +31,6 @@ main {
   font-family: "PT Serif", serif;
   font-weight: normal;
   text-decoration: none;
-
 }
 
 figcaption {
@@ -45,7 +44,7 @@ blockquote {
 }
 
 .date {
-font-weight: bold;
+  font-weight: bold;
 }
 
 cite {
