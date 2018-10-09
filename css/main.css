@@ -40,12 +40,12 @@ figcaption {
 }
 
 blockquote{
-  font-size: 0.8rem;
+  font-size: 1.5rem;
   font-style: italic;
 }
 
 cite {
-  font-size: 1.5rem;
+  font-size: 0.8rem;
   font-style: italic;
 }
 
@@ -59,10 +59,10 @@ ul, footer {
   font-size: 1.5rem;
 }
 
-a footer {
+a {
   color: #8f2440
 }
 
-a footer:hover {
+a:hover {
   color: #3f1622;
 }
